@@ -1,0 +1,60 @@
+{
+  "root": true,
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "env": {
+    "jest": true,
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/jsx-pascal-case": [1, { "allowAllCaps": false, "ignore": [] }],
+    "react/no-multi-comp": [1, { "ignoreStateless": true }],
+    "react/no-array-index-key": [1],
+    "jsx-quotes": ["error", "prefer-single"],
+    "no-multi-spaces": "error",
+    "react/no-is-mounted": [2],
+    "react/sort-comp": [1],
+    "comma-dangle": [
+      "error",
+      {
+        "arrays": "never",
+        "objects": "never",
+        "imports": "never",
+        "exports": "never",
+        "functions": "never"
+      }
+    ],
+    "react/jsx-wrap-multilines": [
+      1,
+      {
+        "declaration": "parens-new-line",
+        "assignment": "parens-new-line",
+        "return": "parens-new-line",
+        "arrow": "parens-new-line",
+        "condition": "parens-new-line",
+        "logical": "parens-new-line",
+        "prop": "parens-new-line"
+      }
+    ],
+    "prettier/prettier": [
+      "error",
+      {
+        "printWidth": 80,
+        "tabWidth": 2,
+        "semi": true,
+        "endOfLine": "auto",
+        "jsxSingleQuote": true,
+        "singleQuote": true,
+        "trailingComma": "none"
+      }
+    ]
+  },
+  "globals": {
+    "browser": true,
+    "$": true,
+    "before": true,
+    "document": true
+  }
+}

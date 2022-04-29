@@ -1,0 +1,111 @@
+{
+  "Result": {
+    "feedbackProviders": [
+      {
+        "feedbackProviderId": 1,
+        "fullName": "Tara Wilson",
+        "designation": "Manager 1",
+        "interaction": "Moderate",
+        "photo": "assets/images/users/tara_wilson.jpg"
+      },
+      {
+        "feedbackProviderId": 2,
+        "fullName": "Matt Lewis",
+        "designation": "Manager 2",
+        "interaction": "Moderate",
+        "photo": "assets/images/users/matt_lewis.jpg"
+      },
+      {
+        "feedbackProviderId": 3,
+        "fullName": "Rachel Green",
+        "designation": "Assistant Buyer",
+        "interaction": "Occasionally",
+        "photo": "assets/images/users/rachel_green.jpg"
+      },
+      {
+        "feedbackProviderId": 4,
+        "fullName": "Tara Wilson 2",
+        "designation": "Manager 1",
+        "interaction": "Moderate",
+        "photo": "assets/images/users/tara_wilson.jpg"
+      },
+      {
+        "feedbackProviderId": 5,
+        "fullName": "Matt Lewis 2",
+        "designation": "Manager 2",
+        "interaction": "Moderate",
+        "photo": "assets/images/users/matt_lewis.jpg"
+      },
+      {
+        "feedbackProviderId": 6,
+        "fullName": "Rachel Green 2",
+        "designation": "Assistant Buyer",
+        "interaction": "Occasionally",
+        "photo": "assets/images/users/rachel_green.jpg"
+      },
+      {
+        "feedbackProviderId": 7,
+        "fullName": "Tara Wilson 3",
+        "designation": "Manager 1",
+        "interaction": "Moderate",
+        "photo": "assets/images/users/tara_wilson.jpg"
+      },
+      {
+        "feedbackProviderId": 8,
+        "fullName": "Matt Lewis 3",
+        "designation": "Manager 2",
+        "interaction": "Moderate",
+        "photo": "assets/images/users/matt_lewis.jpg"
+      },
+      {
+        "feedbackProviderId": 9,
+        "fullName": "Rachel Green 3",
+        "designation": "Assistant Buyer",
+        "interaction": "Occasionally",
+        "photo": "assets/images/users/rachel_green.jpg"
+      }
+    ],
+    "strengths": [
+      "Java",
+      "Machine Learning",
+      "Database",
+      "Artificial Intelligence",
+      "C++",
+      "C",
+      "C#",
+      "SQL",
+      "Python",
+      "Java",
+      "Machine Learning",
+      "Database",
+      "Artificial Intelligence",
+      "C++",
+      "C",
+      "C#",
+      "SQL",
+      "Python",
+      "Java",
+      "Machine Learning",
+      "Database",
+      "Artificial Intelligence",
+      "C++",
+      "C",
+      "C#",
+      "SQL",
+      "Python",
+      "Computer Vision"
+    ],
+    "areaOfImprovement": [
+      "Java",
+      "Machine Learning",
+      "Database",
+      "Artificial Intelligence",
+      "C++",
+      "C",
+      "C#",
+      "SQL",
+      "Python",
+      "Computer Vision"
+    ]
+  }
+}

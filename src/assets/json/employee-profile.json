@@ -1,0 +1,50 @@
+{
+  "Result": {
+    "fullName": "Nina Dobrev",
+    "designation": "Software Developer",
+    "department": "IT Department",
+    "aspirations": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec bibendum sit faucibus eget.",
+    "manager": "Denny Crane",
+    "traits": [
+      {
+        "title": "Hard Skills",
+        "itemsList": [
+          "Java",
+          "Machine Learning",
+          "Database",
+          "Artificial Intelligence",
+          "C++",
+          "C",
+          "C#",
+          "SQL",
+          "Python",
+          "Computer Vision"
+        ]
+      },
+      {
+        "title": "Soft Skills",
+        "itemsList": [
+          "Listening",
+          "Time Management",
+          "Empathy",
+          "Leader",
+          "Taking Responsibility",
+          "Patience",
+          "Multitasking"
+        ]
+      },
+      {
+        "title": "Personality And Mind Attributes",
+        "itemsList": [
+          "Aspiring",
+          "Conscientiousness",
+          "Confident",
+          "Encouraging",
+          "Immaginative",
+          "Extrovert",
+          "Creative"
+        ]
+      }
+    ]
+  }
+}

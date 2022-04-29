@@ -1,0 +1,44 @@
+{
+  "Result": [
+    {
+      "id": "1000",
+      "developmentGoals": "Improve Communication Skills",
+      "isSelected": true,
+      "activities": "Give 10 presentations by the end of the year",
+      "requiredSupport": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "targetDate": "10/12/2021"
+    },
+    {
+      "id": "1001",
+      "developmentGoals": "Get better at Python",
+      "isSelected": false,
+      "activities": "Complete Python course",
+      "requiredSupport": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "targetDate": "10/12/2021"
+    },
+    {
+      "id": "1002",
+      "developmentGoals": "Learn to work better in a team",
+      "isSelected": true,
+      "activities": "Team Project assigned ",
+      "requiredSupport": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "targetDate": "10/12/2021"
+    },
+    {
+      "id": "1003",
+      "developmentGoals": "Get better at C++",
+      "isSelected": true,
+      "activities": "C++ course and project assigned",
+      "requiredSupport": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "targetDate": "10/12/2021"
+    },
+    {
+      "id": "1004",
+      "developmentGoals": "Gain this skill to be considered for promotion",
+      "isSelected": true,
+      "activities": "Relevant Course",
+      "requiredSupport": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "targetDate": "10/12/2021"
+    }
+  ]
+}
